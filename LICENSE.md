@@ -1,4 +1,4 @@
-# 
+# 新 AutoHotkey 工具 Mac OS版 | 高级 AutoHotkey 工具 PC Windows版。集成 插件系统 和 文件压缩，跨平台性能最大化。
 
 
 
